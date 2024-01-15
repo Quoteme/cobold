@@ -1,0 +1,4 @@
+jumprun
+*.o
+cobold.db
+_site/
